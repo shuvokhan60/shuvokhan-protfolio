@@ -20,3 +20,12 @@ section{
 .half-width img{
         width: 80%;
 }
+.button{
+        text-decoration: none;
+      background-image: linear-gradient(red,black);
+        padding: 10px 40px;
+        border-radius: 20px;
+        color: white;
+        font-weight: 700;
+
+}
